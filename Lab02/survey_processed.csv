@@ -1,0 +1,116 @@
+Consent,Q1_Age,Q3_Attendance,Q4_StudyHours,Q5_TestScore,Q10_AdditionalComments,target,Q2_Gender_Male,Q2_Gender_Other,Q6_WritingSkill_Good,Q6_WritingSkill_Poor,Q6_WritingSkill_Weak,Q7_ReadingSkill_Good,Q7_ReadingSkill_Poor,Q7_ReadingSkill_Weak,Q8_FrequentCold_Often,Q8_FrequentCold_Sometimes,Q9_Extracurricular_Yes
+Yes,38,40,3,53,,0,False,False,True,False,False,False,False,False,True,False,False
+Yes,16,100,4,90,,0,True,False,False,False,True,False,False,False,False,False,False
+Yes,16,78,8,73,Health issues,0,False,True,True,False,False,False,False,False,False,True,True
+Yes,35,44,23,89,Health issues,0,False,True,False,True,False,False,False,True,True,False,True
+Yes,28,61,2,18,Health issues,1,True,False,False,True,False,True,False,False,True,False,False
+Yes,24,68,16,38,,1,True,False,False,False,False,True,False,False,False,True,False
+Yes,18,94,2,66,,0,False,False,False,True,False,True,False,False,False,True,True
+Yes,22,42,15,44,,1,True,False,False,False,True,True,False,False,True,False,True
+Yes,21,51,3,12,,1,False,True,False,False,False,True,False,False,False,False,False
+Yes,23,65,17,91,Health issues,0,True,False,False,True,False,True,False,False,True,False,True
+Yes,20,90,6,19,,1,False,False,False,True,False,False,False,False,False,False,False
+Yes,16,76,23,91,Health issues,0,True,False,False,True,False,True,False,False,False,False,False
+Yes,34,61,22,71,Needs more practice,0,True,False,False,True,False,False,False,False,False,True,True
+Yes,25,96,29,60,Needs more practice,0,False,False,False,False,True,False,False,False,False,True,True
+Yes,27,68,4,38,Busy with job,1,False,False,False,False,True,False,True,False,False,True,True
+Yes,39,53,11,0,,1,True,False,False,False,False,True,False,False,True,False,True
+Yes,30,67,16,2,Needs more practice,1,False,False,False,True,False,False,False,True,True,False,True
+Yes,37,44,22,76,Health issues,0,False,False,False,True,False,False,True,False,False,False,True
+Yes,39,86,12,91,Busy with job,0,False,False,False,False,True,False,False,True,False,True,True
+Yes,24,88,22,61,,0,True,False,False,True,False,False,False,False,False,False,True
+Yes,35,69,24,62,,0,False,False,False,False,True,False,False,False,False,False,True
+Yes,32,85,2,24,Health issues,1,False,True,False,True,False,False,True,False,False,False,True
+Yes,32,91,8,55,Needs more practice,0,False,False,False,False,False,False,True,False,False,False,True
+Yes,35,44,29,32,Needs more practice,1,False,True,False,True,False,False,False,True,False,True,False
+Yes,27,51,16,37,Health issues,1,True,False,False,True,False,True,False,False,False,False,False
+Yes,22,55,16,5,Needs more practice,1,True,False,True,False,False,False,False,True,False,True,True
+Yes,17,65,29,57,Busy with job,0,False,False,False,False,True,False,True,False,False,True,False
+Yes,18,65,19,43,,1,False,False,False,True,False,False,False,True,True,False,True
+Yes,32,87,15,44,Busy with job,1,False,False,False,True,False,False,True,False,False,True,False
+Yes,20,60,24,31,Needs more practice,1,True,False,True,False,False,False,False,True,True,False,True
+Yes,32,78,21,44,,1,False,False,True,False,False,False,True,False,False,True,False
+Yes,39,75,12,60,,0,False,False,False,False,True,False,True,False,False,True,False
+Yes,32,69,18,20,Health issues,1,True,False,False,False,False,True,False,False,True,False,False
+Yes,17,76,16,79,Health issues,0,False,True,True,False,False,False,False,True,True,False,True
+Yes,17,62,3,84,,0,False,False,False,False,False,False,False,True,False,False,True
+Yes,37,97,11,74,,0,True,False,False,False,True,False,False,True,True,False,False
+Yes,38,49,28,35,,1,False,False,False,False,True,False,True,False,True,False,True
+Yes,20,93,8,98,Health issues,0,False,False,False,False,True,False,False,True,True,False,False
+Yes,16,44,18,18,Health issues,1,False,True,False,False,True,False,False,True,True,False,True
+Yes,16,75,11,19,,1,True,False,False,False,True,False,True,False,False,False,True
+Yes,34,73,8,56,Busy with job,0,False,False,False,False,False,False,False,False,True,False,True
+Yes,17,91,6,17,Needs more practice,1,False,False,False,False,False,False,True,False,False,True,True
+Yes,36,70,27,46,Health issues,1,False,True,False,False,True,False,False,True,False,True,False
+Yes,27,49,13,48,Health issues,1,True,False,True,False,False,False,True,False,True,False,True
+Yes,21,97,19,13,Busy with job,1,True,False,False,True,False,False,False,False,True,False,True
+Yes,38,58,18,14,Busy with job,1,True,False,False,False,True,False,True,False,False,True,True
+Yes,19,97,25,30,,1,True,False,True,False,False,False,False,True,False,True,True
+Yes,26,40,15,53,Needs more practice,0,True,False,False,False,True,True,False,False,False,True,True
+Yes,39,95,20,2,Needs more practice,1,True,False,False,False,True,False,False,True,False,True,True
+Yes,32,44,4,15,,1,False,False,False,False,False,False,False,False,True,False,True
+Yes,21,84,2,86,,0,False,True,False,True,False,False,False,False,False,True,False
+Yes,39,43,11,56,Health issues,0,True,False,False,True,False,True,False,False,False,False,True
+Yes,20,55,24,74,,0,True,False,True,False,False,False,True,False,False,True,False
+Yes,35,63,19,11,Health issues,1,False,False,False,False,False,False,True,False,True,False,False
+Yes,17,55,26,73,Busy with job,0,True,False,False,False,False,False,False,True,True,False,True
+Yes,21,94,20,95,,0,True,False,False,False,False,True,False,False,False,True,True
+Yes,37,41,3,15,Busy with job,1,True,False,False,False,False,False,True,False,True,False,True
+Yes,26,88,20,71,Needs more practice,0,True,False,False,True,False,True,False,False,False,False,True
+Yes,31,67,22,75,Needs more practice,0,False,False,False,True,False,False,True,False,False,False,False
+Yes,31,71,15,23,,1,True,False,False,False,True,False,False,False,False,True,False
+Yes,16,66,24,27,,1,False,False,False,False,True,False,True,False,False,True,True
+Yes,24,59,6,7,Busy with job,1,False,False,False,False,False,True,False,False,False,True,True
+Yes,21,63,12,91,Health issues,0,True,False,False,False,False,False,False,False,True,False,True
+Yes,31,51,20,35,Needs more practice,1,True,False,False,False,False,False,False,False,False,False,False
+Yes,18,89,9,89,Needs more practice,0,True,False,False,False,True,False,False,False,False,False,True
+Yes,19,99,6,57,Busy with job,0,True,False,True,False,False,False,False,True,False,False,False
+Yes,34,72,13,59,Busy with job,0,True,False,False,False,True,False,False,True,False,True,False
+Yes,18,72,25,49,,1,False,False,False,False,True,False,False,True,False,True,True
+Yes,34,100,4,27,,1,True,False,False,False,True,True,False,False,False,True,False
+Yes,35,90,2,91,,0,True,False,False,False,True,False,False,False,False,False,False
+Yes,22,82,22,40,Needs more practice,1,True,False,False,False,True,False,False,True,False,True,True
+Yes,35,76,28,99,,0,True,False,False,False,True,True,False,False,True,False,True
+Yes,24,51,10,63,Busy with job,0,False,False,False,False,False,False,False,True,True,False,True
+Yes,16,42,10,26,Health issues,1,True,False,False,False,False,False,True,False,False,False,True
+Yes,23,40,17,62,Busy with job,0,False,False,False,False,False,False,False,True,True,False,False
+Yes,22,72,14,16,Needs more practice,1,True,False,False,False,False,False,False,True,True,False,False
+Yes,33,79,11,72,Busy with job,0,False,False,False,False,True,False,False,False,False,False,True
+Yes,23,49,8,32,,1,True,False,True,False,False,True,False,False,False,True,True
+Yes,16,82,9,83,Needs more practice,0,True,False,False,True,False,False,False,False,False,True,True
+Yes,26,83,25,76,Health issues,0,False,True,False,False,True,False,False,False,False,True,True
+Yes,33,68,11,91,,0,False,False,False,True,False,False,False,False,False,False,False
+Yes,38,52,16,28,Needs more practice,1,False,False,True,False,False,False,False,False,True,False,True
+Yes,25,51,28,12,Health issues,1,True,False,False,False,False,False,False,False,False,True,True
+Yes,18,70,5,45,,1,True,False,True,False,False,False,False,True,False,True,True
+Yes,22,85,6,34,,1,True,False,False,False,True,False,False,False,False,False,False
+Yes,31,41,13,5,Needs more practice,1,False,False,False,False,False,False,False,False,False,True,True
+Yes,31,100,12,81,,0,True,False,False,False,True,True,False,False,False,False,False
+Yes,35,90,7,68,,0,False,False,False,False,False,False,True,False,True,False,True
+Yes,32,89,9,46,,1,True,False,False,True,False,False,False,True,False,False,False
+Yes,17,74,8,24,Health issues,1,False,True,False,True,False,False,False,True,False,False,False
+Yes,16,62,17,65,Busy with job,0,False,False,False,True,False,False,False,True,False,False,True
+Yes,31,56,26,9,Needs more practice,1,False,False,True,False,False,False,False,False,False,False,True
+Yes,27,65,25,55,Needs more practice,0,True,False,False,False,True,False,False,False,True,False,False
+Yes,20,47,1,29,,1,True,False,True,False,False,False,False,False,True,False,False
+Yes,20,68,4,4,,1,False,False,False,True,False,True,False,False,False,True,True
+Yes,38,65,28,32,Needs more practice,1,True,False,False,False,True,False,True,False,True,False,True
+Yes,24,49,4,64,,0,True,False,False,True,False,False,False,False,True,False,False
+Yes,24,65,5,17,Health issues,1,False,True,True,False,False,False,True,False,False,True,True
+Yes,18,73,18,95,Needs more practice,0,False,False,True,False,False,True,False,False,True,False,True
+Yes,34,90,7,48,,1,True,False,True,False,False,False,False,True,False,False,False
+Yes,31,80,15,10,Needs more practice,1,True,False,False,True,False,False,False,False,False,False,True
+Yes,31,46,12,84,Busy with job,0,True,False,False,False,True,False,True,False,False,True,True
+Yes,18,43,0,25,,1,False,False,False,False,True,False,True,False,False,True,True
+Yes,35,97,21,62,Needs more practice,0,True,False,False,True,False,False,False,False,False,True,True
+Yes,39,92,19,88,,0,True,False,False,False,True,False,False,True,False,False,True
+Yes,37,89,16,85,,0,True,False,False,True,False,False,False,True,True,False,False
+Yes,39,84,6,58,,0,True,False,False,False,True,False,False,True,False,False,True
+Yes,16,50,24,26,Needs more practice,1,False,False,False,False,False,True,False,False,False,True,True
+Yes,39,68,12,48,Busy with job,1,True,False,False,False,False,False,True,False,True,False,True
+Yes,35,95,3,76,,0,False,True,True,False,False,False,True,False,True,False,True
+Yes,26,75,3,32,Needs more practice,1,True,False,False,False,False,False,True,False,False,False,False
+Yes,32,64,5,97,,0,True,False,False,False,False,True,False,False,False,True,True
+Yes,23,60,27,98,Health issues,0,True,False,False,False,False,False,True,False,False,False,True
+Yes,19,100,18,0,,1,True,False,False,True,False,True,False,False,True,False,False
+Yes,21,96,28,20,Health issues,1,False,True,False,False,False,False,False,True,False,False,True

@@ -1,0 +1,121 @@
+Consent,Q1_Age,Q2_Gender,Q3_Attendance,Q4_StudyHours,Q5_TestScore,Q6_WritingSkill,Q7_ReadingSkill,Q8_FrequentCold,Q9_Extracurricular,Q10_AdditionalComments
+Yes,38,Female,40,3,53,Good,Fair,Often,No,
+No,22,Female,55,9,38,Fair,Good,Never,No,
+Yes,16,Male,100,4,90,Weak,Fair,Never,No,None
+Yes,16,Other,78,8,73,Good,Fair,Sometimes,Yes,Health issues
+Yes,35,Other,44,23,89,Poor,Weak,Often,Yes,Health issues
+Yes,28,Male,61,2,18,Poor,Good,Often,No,Health issues
+Yes,24,Male,68,16,38,Fair,Good,Sometimes,No,None
+Yes,18,Female,94,2,66,Poor,Good,Sometimes,Yes,
+Yes,22,Male,42,15,44,Weak,Good,Often,Yes,None
+Yes,21,Other,51,3,12,Fair,Good,Never,No,None
+Yes,23,Male,65,17,91,Poor,Good,Often,Yes,Health issues
+No,24,Male,55,16,57,Fair,Poor,Sometimes,No,Needs more practice
+Yes,20,Female,90,6,19,Poor,Fair,Never,No,
+Yes,16,Male,76,23,91,Poor,Good,Never,No,Health issues
+Yes,34,Male,61,22,71,Poor,Fair,Sometimes,Yes,Needs more practice
+Yes,25,Female,96,29,60,Weak,Fair,Sometimes,Yes,Needs more practice
+Yes,27,Female,68,4,38,Weak,Poor,Sometimes,Yes,Busy with job
+Yes,39,Male,53,11,0,Fair,Good,Often,Yes,
+Yes,30,Female,67,16,2,Poor,Weak,Often,Yes,Needs more practice
+Yes,37,Female,44,22,76,Poor,Poor,Never,Yes,Health issues
+Yes,39,Female,86,12,91,Weak,Weak,Sometimes,Yes,Busy with job
+Yes,24,Male,88,22,61,Poor,Fair,Never,Yes,
+Yes,35,Female,69,24,62,Weak,Fair,Never,Yes,None
+Yes,32,Other,85,2,24,Poor,Poor,Never,Yes,Health issues
+Yes,32,Female,91,8,55,Fair,Poor,Never,Yes,Needs more practice
+Yes,35,Other,44,29,32,Poor,Weak,Sometimes,No,Needs more practice
+Yes,27,Male,51,16,37,Poor,Good,Never,No,Health issues
+Yes,22,Male,55,16,5,Good,Weak,Sometimes,Yes,Needs more practice
+Yes,17,Female,65,29,57,Weak,Poor,Sometimes,No,Busy with job
+Yes,18,Female,65,19,43,Poor,Weak,Often,Yes,
+Yes,32,Female,87,15,44,Poor,Poor,Sometimes,No,Busy with job
+Yes,20,Male,60,24,31,Good,Weak,Often,Yes,Needs more practice
+Yes,32,Female,78,21,44,Good,Poor,Sometimes,No,None
+Yes,39,Female,75,12,60,Weak,Poor,Sometimes,No,
+No,32,Female,72,26,46,Good,Poor,Sometimes,No,
+Yes,32,Male,69,18,20,Fair,Good,Often,No,Health issues
+Yes,17,Other,76,16,79,Good,Weak,Often,Yes,Health issues
+Yes,17,Female,62,3,84,Fair,Weak,Never,Yes,None
+Yes,37,Male,97,11,74,Weak,Weak,Often,No,
+Yes,38,Female,49,28,35,Weak,Poor,Often,Yes,None
+Yes,20,Female,93,8,98,Weak,Weak,Often,No,Health issues
+Yes,16,Other,44,18,18,Weak,Weak,Often,Yes,Health issues
+Yes,16,Male,75,11,19,Weak,Poor,Never,Yes,
+Yes,34,Female,73,8,56,Fair,Fair,Often,Yes,Busy with job
+Yes,17,Female,91,6,17,Fair,Poor,Sometimes,Yes,Needs more practice
+Yes,36,Other,70,27,46,Weak,Weak,Sometimes,No,Health issues
+Yes,27,Male,49,13,48,Good,Poor,Often,Yes,Health issues
+Yes,21,Male,97,19,13,Poor,Fair,Often,Yes,Busy with job
+Yes,38,Male,58,18,14,Weak,Poor,Sometimes,Yes,Busy with job
+Yes,19,Male,97,25,30,Good,Weak,Sometimes,Yes,None
+No,38,Female,71,14,0,Poor,Fair,Never,No,None
+Yes,26,Male,40,15,53,Weak,Good,Sometimes,Yes,Needs more practice
+Yes,39,Male,95,20,2,Weak,Weak,Sometimes,Yes,Needs more practice
+Yes,32,Female,44,4,15,Fair,Fair,Often,Yes,
+Yes,21,Other,84,2,86,Poor,Fair,Sometimes,No,None
+Yes,39,Male,43,11,56,Poor,Good,Never,Yes,Health issues
+Yes,20,Male,55,24,74,Good,Poor,Sometimes,No,None
+Yes,35,Female,63,19,11,Fair,Poor,Often,No,Health issues
+Yes,17,Male,55,26,73,Fair,Weak,Often,Yes,Busy with job
+Yes,21,Male,94,20,95,Fair,Good,Sometimes,Yes,None
+Yes,37,Male,41,3,15,Fair,Poor,Often,Yes,Busy with job
+Yes,26,Male,88,20,71,Poor,Good,Never,Yes,Needs more practice
+Yes,31,Female,67,22,75,Poor,Poor,Never,No,Needs more practice
+Yes,31,Male,71,15,23,Weak,Fair,Sometimes,No,
+Yes,16,Female,66,24,27,Weak,Poor,Sometimes,Yes,None
+Yes,24,Female,59,6,7,Fair,Good,Sometimes,Yes,Busy with job
+Yes,21,Male,63,12,91,Fair,Fair,Often,Yes,Health issues
+Yes,31,Male,51,20,35,Fair,Fair,Never,No,Needs more practice
+Yes,18,Male,89,9,89,Weak,Fair,Never,Yes,Needs more practice
+No,35,Female,74,25,7,Good,Good,Often,Yes,Health issues
+Yes,19,Male,99,6,57,Good,Weak,Never,No,Busy with job
+Yes,34,Male,72,13,59,Weak,Weak,Sometimes,No,Busy with job
+Yes,18,Female,72,25,49,Weak,Weak,Sometimes,Yes,None
+Yes,34,Male,100,4,27,Weak,Good,Sometimes,No,None
+Yes,35,Male,90,2,91,Weak,Fair,Never,No,
+Yes,22,Male,82,22,40,Weak,Weak,Sometimes,Yes,Needs more practice
+Yes,35,Male,76,28,99,Weak,Good,Often,Yes,None
+Yes,24,Female,51,10,63,Fair,Weak,Often,Yes,Busy with job
+Yes,16,Male,42,10,26,Fair,Poor,Never,Yes,Health issues
+Yes,23,Female,40,17,62,Fair,Weak,Often,No,Busy with job
+Yes,22,Male,72,14,16,Fair,Weak,Often,No,Needs more practice
+Yes,33,Female,79,11,72,Weak,Fair,Never,Yes,Busy with job
+Yes,23,Male,49,8,32,Good,Good,Sometimes,Yes,
+Yes,16,Male,82,9,83,Poor,Fair,Sometimes,Yes,Needs more practice
+Yes,26,Other,83,25,76,Weak,Fair,Sometimes,Yes,Health issues
+Yes,33,Female,68,11,91,Poor,Fair,Never,No,
+Yes,38,Female,52,16,28,Good,Fair,Often,Yes,Needs more practice
+Yes,25,Male,51,28,12,Fair,Fair,Sometimes,Yes,Health issues
+Yes,18,Male,70,5,45,Good,Weak,Sometimes,Yes,
+Yes,22,Male,85,6,34,Weak,Fair,Never,No,
+Yes,31,Female,41,13,5,Fair,Fair,Sometimes,Yes,Needs more practice
+Yes,31,Male,100,12,81,Weak,Good,Never,No,None
+Yes,35,Female,90,7,68,Fair,Poor,Often,Yes,
+Yes,32,Male,89,9,46,Poor,Weak,Never,No,
+Yes,17,Other,74,8,24,Poor,Weak,Never,No,Health issues
+Yes,16,Female,62,17,65,Poor,Weak,Never,Yes,Busy with job
+Yes,31,Female,56,26,9,Good,Fair,Never,Yes,Needs more practice
+Yes,27,Male,65,25,55,Weak,Fair,Often,No,Needs more practice
+Yes,20,Male,47,1,29,Good,Fair,Often,No,None
+Yes,20,Female,68,4,4,Poor,Good,Sometimes,Yes,None
+Yes,38,Male,65,28,32,Weak,Poor,Often,Yes,Needs more practice
+Yes,24,Male,49,4,64,Poor,Fair,Often,No,None
+Yes,24,Other,65,5,17,Good,Poor,Sometimes,Yes,Health issues
+Yes,18,Female,73,18,95,Good,Good,Often,Yes,Needs more practice
+Yes,34,Male,90,7,48,Good,Weak,Never,No,None
+Yes,31,Male,80,15,10,Poor,Fair,Never,Yes,Needs more practice
+Yes,31,Male,46,12,84,Weak,Poor,Sometimes,Yes,Busy with job
+Yes,18,Female,43,0,25,Weak,Poor,Sometimes,Yes,
+Yes,35,Male,97,21,62,Poor,Fair,Sometimes,Yes,Needs more practice
+Yes,39,Male,92,19,88,Weak,Weak,Never,Yes,
+Yes,37,Male,89,16,85,Poor,Weak,Often,No,None
+Yes,39,Male,84,6,58,Weak,Weak,Never,Yes,
+Yes,16,Female,50,24,26,Fair,Good,Sometimes,Yes,Needs more practice
+Yes,39,Male,68,12,48,Fair,Poor,Often,Yes,Busy with job
+Yes,35,Other,95,3,76,Good,Poor,Often,Yes,None
+Yes,26,Male,75,3,32,Fair,Poor,Never,No,Needs more practice
+Yes,32,Male,64,5,97,Fair,Good,Sometimes,Yes,None
+Yes,23,Male,60,27,98,Fair,Poor,Never,Yes,Health issues
+Yes,19,Male,100,18,0,Poor,Good,Often,No,
+Yes,21,Other,96,28,20,Fair,Weak,Never,Yes,Health issues
